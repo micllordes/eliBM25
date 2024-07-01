@@ -1,5 +1,5 @@
 # eliBM25
-Repository holding the code used for experiments in the paper "‘Explain like I am BM25’: Interpreting a Dense Model’s Ranked-List with a Sparse Approximation."
+Repository holding the code used for experiments in the SIGIR'23 paper ["‘Explain like I am BM25’: Interpreting a Dense Model’s Ranked-List with a Sparse Approximation."](https://arxiv.org/abs/2304.12631).
 
 This implementation relies largely on the lucene-msmarco repository that can be found [here](https://github.com/gdebasis/lucene-msmarco). The relevant code from this repo is included in this repository. 
 
